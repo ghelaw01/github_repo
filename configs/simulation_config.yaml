@@ -1,0 +1,12 @@
+simulation:
+  n_samples: 1000
+  time_steps: 24
+  drift_probability: 0.3
+  drift_magnitude: 0.5
+
+features:
+  - age
+  - gender
+  - bmi
+  - heart_rate
+  - blood_pressure
